@@ -19,7 +19,8 @@ SumOfArray_UsingThread — это проект на C++, демонстриру�
 
 Пример ввода и результат:
 
-Input array size: 1000000
+Input array size: 1000000 
+
 Input count of array parts: 4
 
 Parallel sum: 4500000
