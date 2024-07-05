@@ -24,12 +24,15 @@ Input array size: 1000000
 Input count of array parts: 4
 
 Parallel sum: 4500000
+
 Single thread sum: 4500000
 
 Parallel execution time: 0.01234 seconds
+
 Single thread execution time: 0.00987 seconds
 
 Single thread sum faster than parallel sum
+
 Processor cores count: 4
 
 
